@@ -1,0 +1,23 @@
+/* Estilo global de la app */
+.App {
+  /* Centrar el texto */
+  text-align: center;
+
+  /* Abarcar toda la pantalla */
+  height: 100vh;
+
+  /* Color de texto y fondo */
+  color: #eeaee0;
+  background-color: #282c34;
+}
+
+/* Estilos de la sección del formulario */
+.App-content {
+  /* Centrar verticalmente */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  height: 100%;
+}
